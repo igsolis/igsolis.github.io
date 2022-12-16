@@ -22,6 +22,9 @@ My GitHub page is http://github.com/igsolis.
     for the three things we wanted on our sandwich, protein, bread, and a condiment. The chosen
     three things would be considered our arguments, which would form our sandwich.
     
- * Lab -
+ * Lab 6
 
-    Lab - part - is a favorite of mine as well because
+    Lab 6 part 2 is a favorite of mine as well because it taught us how to use loops in our program.
+    Our goal for this lab was to create a guessing game where ou would have to correctly choose the
+    number that was chosen from 1-100. We learned how to use do-while loops in this assiggnment in
+    order to achieve our goal.
