@@ -14,17 +14,19 @@ My GitHub page is http://github.com/igsolis.
     began to use Makefiles. Makefiles are something I believe are a crucial part
     of coding and makes things much easier for us to do. Not only that, but we used
     this to make a date converter from the Gregorian Calendar to the Julian Calendar.
+    I enjoyed learning what makefiles did and using them to check and run our program.
     
  * Lab 5
     
     Lab 5, part 1 was another one of my favorite labs as it introduced the use of arguments.
     In this lab we created a sandwich making tool. We had to create a program when ran that asks
     for the three things we wanted on our sandwich, protein, bread, and a condiment. The chosen
-    three things would be considered our arguments, which would form our sandwich.
+    three things would be considered our arguments, which would form our sandwich. I really liked
+    using arguments that were inputted in order to get our output.
     
  * Lab 6
 
     Lab 6, part 2 is a favorite of mine as well because it taught us how to use loops in our program.
     Our goal for this lab was to create a guessing game where ou would have to correctly choose the
-    number that was chosen from 1-100. We learned how to use do-while loops in this assiggnment in
-    order to achieve our goal.
+    number that was chosen from 1-100. We learned how to use do-while loops in this assignment in
+    order to achieve our goal. I enjoyed learning how to create loops.
